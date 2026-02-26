@@ -29,7 +29,3 @@ This project focuses on recreating the look and feel of Netflix’s interface wi
 <img width="1894" height="866" alt="image" src="https://github.com/user-attachments/assets/0d93f46d-d5a1-4c3c-8b78-578a184f8315" />
 
 
-> *(Add your project screenshot in the `assets` folder and update the path if needed)*
-
----
-
